@@ -1,5 +1,5 @@
-import { title } from "process";
 import { pillprops } from "@/interfaces";
+import { title } from "process";
 
 const Pill: React.FC<PageProps> = ({ title }) => {
   return (
