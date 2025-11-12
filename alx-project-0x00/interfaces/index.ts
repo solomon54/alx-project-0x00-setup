@@ -1,3 +1,3 @@
 export interface PillProps{
-    tittle:string;
+    tittle: string;
 }
